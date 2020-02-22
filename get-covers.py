@@ -73,5 +73,5 @@ for (img_el, rating_el) in zip(img_elems, rating_elems):
 
 
 # uncomment this to download all the book images
-for book in books:
-    book.download_image()
+# for book in books:
+#     book.download_image()
