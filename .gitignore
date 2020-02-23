@@ -1,1 +1,4 @@
 /assets/*
+*.jpg
+/top_books/data/*
+/top_books/frames/*
